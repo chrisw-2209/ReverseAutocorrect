@@ -1,0 +1,7 @@
+words_alpha.txt
+english_dictionary.csv
+__pycache__/
+*.pyc
+.venv/
+venv/
+mainold.py
